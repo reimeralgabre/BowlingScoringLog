@@ -1,4 +1,4 @@
 # BowlingScoringLog
-This application is used to score and save a bowling game
+This reposistory includes both the demo code and the setup for the application.
 
-This includes both the demo and the setup for the application.
+This application is used to save score logs for multiple players in a bowling game bowling game.
